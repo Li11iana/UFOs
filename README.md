@@ -20,15 +20,24 @@ In order to filter the data a function was created to keep track of all the filt
 Search Example:
 1. Table without filters.
 
+![1](https://github.com/Li11iana/UFOs/blob/main/resources/1.png)
+
 2. Reducing the search by date. Showing results only for January 1st 2010 (1/1/2010).
+
+![2](https://github.com/Li11iana/UFOs/blob/main/resources/2.png)
 
 3. Applying the filter only to sighthings in California. The following image shows results for January 1st 2010 in California only.
 
-
+![3](https://github.com/Li11iana/UFOs/blob/main/resources/3.png)
 
 ## Summary:
+
+The website displays the information in a clear and concise way that adapts to the users interests and that could be used with larger datasets.
+
+### Drawbacks
 * Currently the data set used only contains a limited amount of information, thus some of the filters do not provide any visualization improvements such as the "country" filter, since all entries correspond to the US.
-*
+* The cap sensitivity of the filters could make the user experience frustrating for users used to more flexibility.
+
 ### Recommendations
-*
-*
+* As mentioned above, it would be benefitial to increase the variety of the dataset used this could show more information about UFOs sighthings.
+* Adding links to articles or more information about each sighthing would add more valuable details and potentially more sources for research.
